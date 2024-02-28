@@ -28,6 +28,7 @@ export default function Index() {
           <p>Drag 'n' drop some files here, or click to select file</p>
         )}
       </div>
+
       <ul>
         <li>
           <a
